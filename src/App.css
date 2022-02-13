@@ -1,0 +1,20 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('http://cdn.animalhi.com/1650x1080/20121026/pokemon%20snorlax%20simple%20background%20green%20background%201650x1080%20wallpaper_www.animalhi.com_74.jpg');
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}
+
+.listWrap{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color: rgba(255, 255, 255, 0.5);;
+    position: fixed;
+    bottom: 0;
+    width: 85vw;
+    height: 90vh;
+}

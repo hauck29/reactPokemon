@@ -1,0 +1,10 @@
+.pokeDiv{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-top: white 1px solid;
+    border-bottom: white 1px solid;
+    margin: 1vh;
+    width: 10vw;
+    padding: 0.3vh;
+    border-radius: 5px;
+    padding-left: 1vh;
+}
